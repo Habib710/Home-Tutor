@@ -1,0 +1,44 @@
+[
+    {
+      "id": "625ca1a396fb88d140943288",
+      "balance": "$141.73",
+      "picture": "/image/img1.jpg",
+      "name": "Daily Class",
+      "about": " proident veniam consequat amet ex labore voluptate. Elit consectetur sint elit incididunt mollit tempor in. Duis consequat nulla proident dolor qui aliquip ullamco qui culpa commodo. Consectetur nulla aliquip dolor consectetur est reprehenderit dolore. "
+    },
+    {
+      "id": "625ca1a36b0314a8ad27afe7",
+      "balance": "$330.02",
+      "picture": "/image/img2.jpg",
+      "name": "weekend class",
+      "about": "Fugiat quis officia minim exercitation dolor ut. Qui veniam quis cupidatat anim ut fugiat aliqua qui duis. Deserunt duis occaecat sunt occaecat veniam est. Qui do mollit tempor eu qui excepteur reprehenderit eiusmod incididunt anim non aliqua cillum."
+    },
+    {
+      "id": "625ca1a323784609092db4a6",
+      "balance": "$100.69",
+      "picture": "/image/img3.jpg",
+      "name": "Monthly class Program",
+      "about": "Aute laboris aute consequat minim irure minim officia ex magna labore ut. Sit quis incididunt reprehenderit nostrud occaecat cillum occaecat aliquip ea dolore sunt. Ea proident laborum labore reprehenderit. Amet nisi eiusmod commodo "
+    },
+    {
+      "id": "625ca1a3500be0af5733071d",
+      "balance": "$307.90",
+      "picture": "/image/img4.jpg",
+      "name": "Dedicated class",
+      "about": "Dolore dolore ad aliquip irure minim pariatur ipsum ipsum proident. Cillum sint dolor eiusmod nulla amet veniam labore. Tempor in non non quis quis elit non excepteur commodo dolore velit amet amet excepteur.\r\n"
+    },
+    {
+      "id": "625ca1a320843c40c537e1ca",
+      "balance": "$307.59",
+      "picture": "/image/img5.jpg",
+      "name": "Extra program",
+      "about": "In tempor anim culpa exercitation aliquip non consectetur commodo. Culpa exercitation in sunt laboris incididunt. Esse anim non officia id incididunt fugiat. Dolor ea minim cupidatat aliquip eiusmod aliquip minim duis id sunt culpa enim  "
+    },
+    {
+      "id": "625ca1a333f8cd89c9f73457",
+      "balance": "$274.09",
+      "picture": "/image/img6.jpg",
+      "name": "Special class program",
+      "about": "Sit cillum ex laborum dolore eiusmod id sint proident. Cupidatat cillum quis ut incididunt cillum aliquip proident magna mollit nulla occaecat officia laborum.  ut incididunt cillum aliquipquis est amet amet dolor in.\r\n"
+    }
+  ]

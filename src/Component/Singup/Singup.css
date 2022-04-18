@@ -1,0 +1,17 @@
+.new-css{
+    width:650px;
+   
+}
+
+
+
+
+@media screen and (max-width:320px) {
+    
+    .new-css{
+        width:300px;
+       
+    }
+    
+    
+}

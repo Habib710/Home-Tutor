@@ -1,0 +1,28 @@
+.checkout-css{
+    min-height: 450px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+   
+}
+.register-css{
+    border-radius: 8px;
+    box-shadow: rgba(236, 59, 198, 0.76) 0px 22px 70px 4px;
+}
+
+
+
+@media screen and (max-width:450px){
+
+    .checkout-css{
+        
+        display: block;
+        align-items: center;
+        justify-content: center;
+       
+       
+    }
+
+    
+}

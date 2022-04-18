@@ -1,0 +1,70 @@
+.background{
+
+    width: 100%;
+    height: auto;
+   
+    background-image: url(../img/home-2.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.text-css-heading{
+    font-size: 65px;
+    padding-bottom: 20px;
+    font-weight: 600;
+    color: rgb(255, 255, 255);
+}
+.div-heading{
+    font-weight: 600;
+   
+}
+
+
+
+.custom-baner-css{
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+    
+
+}
+.myclass{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:820px){
+
+    .myclass{
+        
+        grid-template-columns: repeat(2,1fr);
+        gap: 20px;
+    }
+    
+
+}
+
+
+@media screen and (max-width:460px) {
+
+    .myclass{
+        
+        grid-template-columns: repeat(1,1fr);
+        gap: 15px;
+    }
+    
+}
